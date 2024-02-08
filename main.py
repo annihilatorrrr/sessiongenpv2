@@ -16,5 +16,4 @@ pbot = Client(
 pbot.start()
 print(pbot.export_session_string())
 pbot.stop(True)
-remove(f"{nameofclient}.session-journal")
 remove(f"{nameofclient}.session")
