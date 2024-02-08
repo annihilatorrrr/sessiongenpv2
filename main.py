@@ -6,7 +6,7 @@ from uvloop import install
 install()
 from pyrogram import Client
 
-nameofclient = str(time()))
+nameofclient = str(time())
 pbot = Client(
     nameofclient,
     api_id=int(input("Enter an API ID: ")),
