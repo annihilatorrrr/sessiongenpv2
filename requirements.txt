@@ -1,3 +1,5 @@
 git+https://github.com/PyrogramMod/PyrogramMod@main
 TgCrypto~=1.2.5
 uvloop~=0.19.0
+cryptg~=0.4.0
+Telethon~=1.37.0
